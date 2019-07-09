@@ -1,0 +1,19 @@
+{
+  "name": "ado-create-pr",
+  "version": "1.0.0",
+  "description": "Create an Azure DevOps pull request from local branch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwestbrook/ado-create-pr.git"
+  },
+  "author": "Mike Westbrook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelwestbrook/ado-create-pr/issues"
+  },
+  "homepage": "https://github.com/michaelwestbrook/ado-create-pr#readme"
+}
