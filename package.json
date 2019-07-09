@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelwestbrook/ado-create-pr/issues"
   },
-  "homepage": "https://github.com/michaelwestbrook/ado-create-pr#readme"
+  "homepage": "https://github.com/michaelwestbrook/ado-create-pr#readme",
+  "dependencies": {
+    "git-utils": "^5.6.1"
+  }
 }
